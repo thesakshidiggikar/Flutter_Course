@@ -1,0 +1,15 @@
+{
+"accessibility.verbosity.debug": true,
+"debug.console.acceptSuggestionOnEnter": "off",
+"debug.console.closeOnEnd": false,
+"debug.enableStatusBarColor": true,
+"debug.hideLauncherWhileDebugging": true,
+"debug.terminal.clearBeforeReusing": false,
+"debug.confirmOnExit": "always",
+"dart.showDebuggerNumbersAsHex": false,
+"dart.showDevToolsDebugToolBarButtons": true,
+"dart.cliConsole": "debugConsole",
+"debug.closeReadonlyTabsOnEnd": false,
+"debug.console.collapseIdenticalLines": false,
+"dart.debugExternalPackageLibraries": true
+}
