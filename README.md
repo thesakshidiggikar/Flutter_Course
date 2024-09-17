@@ -2,7 +2,7 @@
 
 Welcome to your Flutter journey! This step-by-step course will guide you through the key concepts of Flutter development, building up to a **Google Sign-In** mini project at the end.
 
----
+--
 
 ## 1. Introduction to Flutter
 **Goal**: Understand the basics of Flutter, its ecosystem, and why it's popular for cross-platform development.
